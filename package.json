@@ -1,0 +1,25 @@
+{
+  "name": "javascript_module_9",
+  "version": "1.0.0",
+  "description": "Асинхронность / таймеры / дата / время /Промисы",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronFather/JavaScript_module_9.git"
+  },
+  "author": "Yurii Yashchuk <yashchukyurii@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IronFather/JavaScript_module_9/issues"
+  },
+  "homepage": "https://github.com/IronFather/JavaScript_module_9#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap.native": "^4.2.0",
+    "parcel": "^2.8.0"
+  }
+}
